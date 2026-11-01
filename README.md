@@ -1,2 +1,2 @@
-# -
-USB固件
+STM32 USB固件
+版本:STM32_USB-FS-Device_Lib_V4.1.0
